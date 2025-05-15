@@ -36,7 +36,7 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
   <img src="https://i.imgur.com/wT2oNAP.png" height="80%" width="80%" alt="Step 1 Image 3"/>
 </p>
 <p><b>Step 1:</b> Create a Virtual Machine and Record IPs<br/>
-- On your local machine, go to <a href="https://whatismyipaddress.com/" target="_blank">whatismyipaddress.com</a> and save your current IP in a text file.<br/>
+- On your local machine, go to <a href="https://whatismyipaddress.com/" target="_blank">whatismyipaddress.com</a> to save your current IP in a text file.<br/>
 - In Azure, create a resource group and deploy a Windows 10 virtual machine in a different region (e.g., a foreign country).<br/>
 - Use Remote Desktop to log into the VM and revisit the same site to capture and record that IP.
 </p>
@@ -66,8 +66,8 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
   <img src="https://i.imgur.com/7oH7ZwE.png" height="80%" width="80%" alt="Step 3 Image 1"/>
 </p>
 <p><b>Step 3:</b> Observe Location-Based Content Differences<br/>
-- While connected to the VPN from the VM, visit major sites like Google, Disney, or Amazon.<br/>
-- Look for signs that content is being served based on your VPN’s region: different URLs (e.g., google.co.jp), language preferences, or region-specific promotions.<br/>
-- Take note of these variations for documentation and comparison.
+- While connected to the VPN from the VM, visit major sites like Google, apple, or Amazon.<br/>
+- Look for signs that content is being served based on your VPN’s region: different URLs , language preference, or region-specific promotions.<br/>
+- Take note of these variations for  documentation and comparison.
 </p>
 <br />
