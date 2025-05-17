@@ -34,8 +34,8 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
 </p>
 <p><b>Step 1:</b> Create a Virtual Machine and Record what yo see IPs<br/>
 - On your local machine, go to <a href="https://whatismyipaddress.com/" target="_blank">whatismyipaddress.com</a> to save your current IP in a text file.<br/>
-- In Azure, create a resource group and deploy a Windows 10 virtual machine in a different region (e.g., a foreign country).<br/>
-- Use Remote Desktop to log into the VM and revisit the same site to capture and record that IP.
+- In Azure make sure you  create a resource group and deploy a Windows 10 virtual machine in a different region (e.g., Alaska).<br/>
+- Use Remote Desktop to log into the VM and revisit the same site to capture and record the IP.
 </p>
 <br />
 
@@ -52,7 +52,7 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
 <p><b>Step 2:</b> Sign Up for and Connect to Proton VPN<br/>
 - On your host machine, sign up for the free plan from Proton VPN:  
   <a href="https://account.protonvpn.com/signup?plan=free&language=en" target="_blank">Proton VPN Signup</a>.<br/>
-- In the virtual machine, install the Proton VPN client.<br/>
+- When your In the virtual machine, install the Proton VPN client.<br/>
 - Log into your account and connect to a VPN server in a third location, such as Japan.<br/>
 - Visit <a href="https://whatismyipaddress.com/" target="_blank">whatismyipaddress.com</a> again and save the VPN-assigned IP to your file.
 </p>
@@ -65,6 +65,6 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
 <p><b>Step 3:</b> Observe Location-Based Content Differences<br/>
 - While connected to the VPN from the VM, visit major sites like Google, apple, or Amazon.<br/>
 - Look for signs that content is being served based on your VPN’s region: different URLs , language preference, or region-specific promotions.<br/>
-- Take note of these variations for  documentation and comparison.
+- Take note of these variations 
 </p>
 <br />
