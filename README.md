@@ -5,9 +5,6 @@
 <h1>osTicket - VPN Usage Setup</h1>
 This tutorial demonstrates how to configure and test a VPN within a virtual machine to explore regional IP address changes and content localization.
 
-<h2>Video Demonstration</h2>
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
