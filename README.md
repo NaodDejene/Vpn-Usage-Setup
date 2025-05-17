@@ -32,7 +32,7 @@ This tutorial demonstrates how to configure and test a VPN within a virtual mach
 <p>
   <img src="https://i.imgur.com/wT2oNAP.png" height="80%" width="80%" alt="Step 1 Image 3"/>
 </p>
-<p><b>Step 1:</b> Create a Virtual Machine and Record IPs<br/>
+<p><b>Step 1:</b> Create a Virtual Machine and Record what yo see IPs<br/>
 - On your local machine, go to <a href="https://whatismyipaddress.com/" target="_blank">whatismyipaddress.com</a> to save your current IP in a text file.<br/>
 - In Azure, create a resource group and deploy a Windows 10 virtual machine in a different region (e.g., a foreign country).<br/>
 - Use Remote Desktop to log into the VM and revisit the same site to capture and record that IP.
